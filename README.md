@@ -12,10 +12,9 @@ Based on an EBM-Papst fan. (need to find out which model it was)
 Files:
 
 ```
-
- 	vacuum_case.svg
-  interlock_frame.dxf
-  interlock_foot.dxf
+vacuum_case.svg
+interlock_frame.dxf
+interlock_foot.dxf
 ```
 
 ## Otterfilter
@@ -25,11 +24,10 @@ Files:
 Files:
 
 ```
-
- 	Filter_case.dxf
-  Filter_insert.dxf
-  interlock_frame.dxf
-  interlock_foot.dxf
+Filter_case.dxf
+Filter_insert.dxf
+interlock_frame.dxf
+interlock_foot.dxf
 ```
 
 ## Hose connection
@@ -37,7 +35,6 @@ Files:
 Files:
 
 ```
-
- 	125mm_adapter_small.dxf
-  125mm_adapter_big.dxf
+125mm_adapter_small.dxf
+125mm_adapter_big.dxf
 ```
