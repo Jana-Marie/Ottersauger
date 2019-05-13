@@ -2,8 +2,8 @@
 
 The Ottersauger and Otterfilter are two devices to evacuate and clean air, especially used for solder fumes. Both are seperate devices, which are connected by stacking.
 
-!()[/images/IMG_20180414_180506.jpg]
-!()[/images/IMG_20180414_201624.jpg]
+![](/images/IMG_20180414_180506.jpg)
+![](/images/IMG_20180414_201624.jpg)
 
 ## Ottersauger
 
@@ -19,7 +19,7 @@ Files:
 
 ## Otterfilter
 
-!()[/images/IMG_20180414_180157.jpg]
+![](/images/IMG_20180414_180157.jpg)
 
 Files:
 
